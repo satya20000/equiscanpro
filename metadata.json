@@ -1,0 +1,7 @@
+{
+  "name": "Copy of EquiScan Pro - AI Stock Screener",
+  "description": "A professional-grade stock market dashboard featuring top gainers analysis across multiple timeframes, interactive charting, and AI-powered market sentiment insights.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
